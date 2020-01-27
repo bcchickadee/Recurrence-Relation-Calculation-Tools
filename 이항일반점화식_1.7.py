@@ -6,7 +6,7 @@ def a(FirstSequence,MultipliedConstant,IndependentConstant,SequenceNumber): #a(n
 
 print('이항 점화식 계산기')
 print('ver 1.7')
-print('제작: 윤수민, Jan 26 2020\n')
+print('제작: bcchickadee, Jan 26 2020\n')
 print('프로그램 설명:')
 print('수열 a(n)에 대하여 a(n+1)=p×a(n)+q가 성립할 때, 초항, p, q, 타깃 항수를 입력하여 a(n)을 산출합니다.\n\n')
 while 0==0:
