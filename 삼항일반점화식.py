@@ -9,7 +9,7 @@ def a(FirstSequence,SecondSequence,FirstMultipliedConstant,SecondMultipliedConst
 
 print('삼항 점화식 계산기')
 print('ver 1.0')
-print('제작: 윤수민, Jan 27 2020\n')
+print('제작: bcchickadee, Jan 27 2020\n')
 print('프로그램 설명:')
 print('수열 a(n)에 대하여 a(n+2)=p×a(n+1)+qa(n)+r 가 성립할 때, 첫 번째 항(a(1)), 두 번째 항(a(2)), p, q, r, 타깃 항수를 입력하여 a(n)을 산출합니다.\n\n')
 while 0==0:
